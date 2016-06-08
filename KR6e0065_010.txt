@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 03, No. 221
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0065_X_010-0744b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
@@ -1389,7 +1389,7 @@
 住最勝菩提分法。燒煩惱薪慧焰增故。名焰慧地。攝¶
 論云由諸菩提分法。焚燒一切障故。無性釋。由此地¶
 中有焰慧故。名為焰地。世親釋云。能燒一切根本煩¶
-惱及隨煩惱。皆為灰燼。名焰慧地。莊嚴論云。以菩提¶
+惱及隨煩惱。皆為[厂@火]燼。名焰慧地。莊嚴論云。以菩提¶
 分慧為焰自性。惑智二障為薪自性。此地菩薩能焰¶
 慧。燒二障薪。名焰慧地。金光明云。能燒煩惱。以智慧¶
 大增長光明。脩脩行道品依處故。名為焰。解深密云。¶

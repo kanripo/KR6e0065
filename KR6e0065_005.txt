@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 03, No. 221
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0065_X_005-0658a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -2178,7 +2178,7 @@
 次中成行相十句內四。一標數辨相。謂前門初成。次¶
 顯中成故。云復有十法。令佛歡憙。即是行成就相。二¶
 徵數可知。三別列中。一謂前雖發勤。若不至中或容¶
-有退。令既至此。故不退。二於求法護法。拔苦眾生。不¶
+有退。令既至此。故不退。二於求法護法。[托-七+友]苦眾生。不¶
 惜身命。三不求財利稱名讚美亦為供養故。四會事¶
 歸理。謂知五蘊無性故。五普證事事無㝵法界。一即¶
 一切。一切即一故。六有兩釋。一約四相。謂知一切法¶
